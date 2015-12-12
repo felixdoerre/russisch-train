@@ -1,0 +1,95 @@
+Здравствуйте!;Guten Tag! (sie)
+Привет!;Hallo!
+я;ich
+а;und, aber
+буквы;Buchstabe
+и;und
+звуки;Silbe
+кто;wer
+ты;du
+вы;ihr/Sie
+Здравствуй!;Guten Tag! (du)
+господин;Herr (Anrede)
+госпожа;Frau (Anrede)
+какао;Kakao
+торт;Torte
+рубль;Rubel
+конференция;Konferenz
+да;ja
+нет;nein
+спасибо;Danke
+пожалуйста;bitte
+наверное;vielleicht
+или;oder
+извини;Entschuldige (du)
+как;wie
+тебя;dich
+меня;mich
+очень;sehr
+приятно;angenehm
+зовут;nennt
+Пока!;Tschüss!
+До свидания!;Auf Wiedersehn!
+Извините!;Entschuldigen Sie!
+моя;meine
+фамилия;Familiennamen
+Скажите!;Sag! (sie)
+это;dies
+Как вас зовут?;Wie heißen Sie?
+вас зовут;ihr heißt
+Скажи!;Sag! (du)
+произношение;Aussprache
+имя;Vorname
+отчество;Vatersname
+Познакомьтесь!;Machen Sie sich miteinander bekannt!
+любопытно знать;interessant zu wissen
+ФИО;Familienname Vorname Vatersname
+Я уже умею;Ich kann schon
+резюме;Zusammenfassung
+Каков привет таков ответ.;Wie man in den Wald hineinruft, so schallt es heraus.
+Вы живёте в Москве?;Wohnen Sie in Moskau?
+Россия;Russland
+из России;aus Russland
+Франция;Frankreich
+из Франции;aus Frankreich
+Германия;Deutschland
+из Германии;aus Deutschland
+Швейцария;Schweiz
+из Швейцарии;aus der Schweiz
+Австрия;Österreich
+из Австрии;aus Österreich
+Швеция;Schweden
+из Швеции;aus Schweden
+Польша;Polen
+из Польши;aus Polen
+Англия;England
+из Англии;aus England
+Чехия;Tschechien
+из Чехии;aus Tschechien
+Украина;Ukraine
+из Украины;aus der Ukraine
+Дания;Dänemark
+из Дании;aus Dänemark
+Словакия;Slowakei
+из Словакии;aus der Slowakei
+по-русски;auf russisch
+по-немецки;auf deutsch
+Где Иваново?;Wo ist Ivanowa?
+где;wo
+покажи;zeig (du)
+покажите;zeig (sie)
+здесь;hier
+Мы из Москвы.;Wir sind aus Moskau.
+мы;wir
+из;aus
+Добро пожаловать!;Herzlich willkommen!
+Он тоже живёт в Москве.;Er wohnt auch in Moskau.
+откуда;woher
+понимаю;ich vestehe
+он;er
+тоже;auch
+интересно;interssant
+например;zum Beispiel
+она;sie (3.Ps sgl)
+оно;es
+они;sie (3.Ps pl)

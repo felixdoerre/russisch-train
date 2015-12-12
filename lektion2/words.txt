@@ -1,0 +1,57 @@
+Юрий русский;Juri ist Russe
+ток-шоу;Talk-Show
+директор;Direktor
+менеджер;Manager
+экскурсовод;Reiseleiter
+страна;Land
+город;Stadt
+профессия;Beruf
+Добрый вечер!;Guten Abend!
+турист;Tourist
+экскурсия;Exkursion
+по-национальности;nach Nationalität
+по;nach
+национальность;Nationalität
+жить;leben
+я живут;ich leben
+ты жтвёшь;du lebst
+он жтвёт;er lebt
+мы жтвём;wir leben
+вы живёте;ihr lebt
+они живут;sie leben
+Я живу в Шлезвише;Ich wohne in Schleswig.
+кафе;Café
+правильно;richtig
+неправмльно;falsch
+свободно;frei
+в;in/im
+в Москве;in Moskau
+Давайте познакомимся!;Machen wir uns bekannt!
+Вот это сюрприз!;Das ist ja eine Überraschung!
+сюрприз;Überraschung
+Алло!;Hallo! (am Telefon)
+не;nicht
+университет;Universität
+кино;Kino
+кофейния;Kaffeehaus
+интитут;Institut
+театр;Theater
+число;Zahl
+числа;Zahlen
+Вот мой адрес.;Hier ist meine Adresse.
+вот;hier, da
+мой;mein
+адрес;Adresse
+булевар;Boulevard
+улица;Straße
+проспект;Prospekt (breite Straße)
+шоссе;Chaussee
+всё;alles
+понятно;verständlich
+на улица;in/auf der Straße
+нв;in/auf
+центр;Zentrum
+дом;Haus
+квартира;Wohnung
+музей;Museum
+Мир тесен.;Die Welt ist klein/ein Dorf.

@@ -1,0 +1,25 @@
+ноль;null (mit o)
+нуль;null (mit u)
+один;eins (m)
+одна;eins (f)
+одно;eins (n)
+два;zwei (m/n)
+две;zwei (f)
+рвз;eins (bei Aufzählungen)
+три;drei
+четыре;vier
+пять;fünf
+шесть;sechs
+семь;sieben
+восемь;acht
+девять;neun
+десять;zehn
+одиннадцать;elf
+двенадцать;zwölf
+тринадцать;dreizehn
+четырнадцать;vierzehn
+ыятнадцать;fünfzehn
+щестнадцать;sechzehn
+семнадцать;siebzehn
+восемнадцать;achzehn
+девятнадцать;neunzehn
