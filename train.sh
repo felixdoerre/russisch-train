@@ -2,6 +2,9 @@
 
 cd $1
 
+touch success
+touch fail
+
 while true; do
     
     LINE=`shuf -n 1 words.txt`
