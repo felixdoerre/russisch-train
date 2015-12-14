@@ -13,16 +13,16 @@
 по;nach
 национальность;Nationalität
 жить;leben
-я живут;ich leben
-ты жтвёшь;du lebst
-он жтвёт;er lebt
-мы жтвём;wir leben
+я живу;ich leben
+ты живёшь;du lebst
+он живёт;er lebt
+мы живём;wir leben
 вы живёте;ihr lebt
 они живут;sie leben
-Я живу в Шлезвише;Ich wohne in Schleswig.
+Я живу в Шлезвиге;Ich wohne in Schleswig.
 кафе;Café
 правильно;richtig
-неправмльно;falsch
+неправильно;falsch
 свободно;frei
 в;in/im
 в Москве;in Moskau
@@ -33,8 +33,8 @@
 не;nicht
 университет;Universität
 кино;Kino
-кофейния;Kaffeehaus
-интитут;Institut
+кофейня;Kaffeehaus
+институт;Institut
 театр;Theater
 число;Zahl
 числа;Zahlen
@@ -42,14 +42,14 @@
 вот;hier, da
 мой;mein
 адрес;Adresse
-булевар;Boulevard
+бульвар;Boulevard
 улица;Straße
 проспект;Prospekt (breite Straße)
 шоссе;Chaussee
 всё;alles
 понятно;verständlich
-на улица;in/auf der Straße
-нв;in/auf
+на улице;in/auf der Straße
+на;in/auf
 центр;Zentrum
 дом;Haus
 квартира;Wohnung

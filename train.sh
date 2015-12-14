@@ -6,8 +6,11 @@ touch success
 touch fail
 
 while true; do
-    
-    LINE=`shuf -n 1 words.txt`
+    if diff -q <(sort <(cat words.txt words.txt words.txt| cut -f1 -d\;) fail) <(sort success) > /dev/null; then
+	echo finished
+	exit
+    fi
+    LINE=$(shuf -n 1 words.txt)
     IFS=";"
     PARTS=($LINE)
     cnt=$(grep -c '^'"${PARTS[0]}"'$' success)

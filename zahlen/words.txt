@@ -5,7 +5,7 @@
 одно;eins (n)
 два;zwei (m/n)
 две;zwei (f)
-рвз;eins (bei Aufzählungen)
+раз;eins (bei Aufzählungen)
 три;drei
 четыре;vier
 пять;fünf
@@ -18,8 +18,8 @@
 двенадцать;zwölf
 тринадцать;dreizehn
 четырнадцать;vierzehn
-ыятнадцать;fünfzehn
-щестнадцать;sechzehn
+пятнадцать;fünfzehn
+шестнадцать;sechzehn
 семнадцать;siebzehn
 восемнадцать;achzehn
 девятнадцать;neunzehn
