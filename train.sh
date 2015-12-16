@@ -7,7 +7,7 @@ touch fail
 
 red="$(tput setaf 1)"
 green="$(tput setaf 2)"
-white="$(tput setaf 7)"
+reset="$(tput sgr0)"
 
 while true; do
     if diff -q <(sort <(cat words.txt words.txt words.txt| cut -f1 -d\;) fail) <(sort success) > /dev/null; then
@@ -27,13 +27,13 @@ while true; do
     while true; do
         read -r -p "$de: " entry
         if [[ "$ru" == "$entry" ]]; then
-            echo "${green}Success${white}"
+            echo "${green}Success${reset}"
             if [[ $failed == "NO" ]]; then
                 echo "$ru" >> success
             fi
             break;
         else
-            echo "${red}Fail: ${green}$ru${white}"
+            echo "${red}Fail: ${green}$ru${reset}"
             if [[ $failed == "NO" ]]; then
                 failed="YES"
                 echo "$ru" >> fail
