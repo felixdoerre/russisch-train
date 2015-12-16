@@ -10,38 +10,35 @@ while true; do
         echo finished
         exit
     fi
-    line=$(shuf -n 1 words.txt)
-    IFS=";"
-    parts=($line)
-    cnt=$(grep -c '^'"${parts[0]}"'$' success)
-    cntm=$(grep -c '^'"${parts[0]}"'$' fail)
+    IFS=';' read -r ru de < <(shuf -n1 words.txt)
+    cnt=$(grep -c '^'"$ru"'$' success)
+    cntm=$(grep -c '^'"$ru"'$' fail)
     if [[ $((cnt-cntm)) -gt 2 ]]; then
-        #echo "Skipped: ${parts[0]}"
+        #echo "Skipped: $ru"
         continue;
     fi
     echo $cnt"; Required: "$((cntm+3))
-    IFS=" "
 
     failed="NO"
     while true; do
-        read -r -p "${parts[1]}: " entry
-        if [[ "${parts[0]}" == "$entry" ]]; then
+        read -r -p "$de: " entry
+        if [[ "$ru" == "$entry" ]]; then
             tput setaf 2
             echo Success
             tput setaf 7
             if [[ $failed == "NO" ]]; then
-                echo "${parts[0]}" >> success
+                echo "$ru" >> success
             fi
             break;
         else
             tput setaf 1
             echo -n "Fail: "
             tput setaf 2
-            echo "${parts[0]}"
+            echo "$ru"
             tput setaf 7
             if [[ $failed == "NO" ]]; then
                 failed="YES"
-                echo "${parts[0]}" >> fail
+                echo "$ru" >> fail
             fi
         fi
     done
