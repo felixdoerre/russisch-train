@@ -15,8 +15,8 @@ while true; do
         exit
     fi
     IFS=';' read -r ru de < <(shuf -n1 words.txt)
-    cnt=$(grep -c '^'"$ru"'$' success)
-    cntm=$(grep -c '^'"$ru"'$' fail)
+    cnt=$(grep -c "^$ru$" success)
+    cntm=$(grep -c "^$ru$" fail)
     if ((cnt-cntm > 2)); then
         #echo "Skipped: $ru"
         continue;
