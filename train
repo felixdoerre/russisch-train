@@ -1,5 +1,14 @@
 #!/bin/bash
 
+function progress(){
+    words=$(wc -l < words.txt)
+    succ=$(wc -l < success)
+    fail=$(wc -l < fail)
+    all=$((words*3+fail))
+    echo "$succ/$all"
+}
+
+
 if (($# != 1)) || ! [[ -d "$1" ]]; then
     cat << EOF
 Usage: $0 DICTIONARY
@@ -18,6 +27,7 @@ red="$(tput setaf 1)"
 green="$(tput setaf 2)"
 reset="$(tput sgr0)"
 
+progress
 while true; do
     if diff -q <(sort <(cat words.txt words.txt words.txt| cut -f1 -d\;) fail) <(sort success) > /dev/null; then
         echo finished
@@ -49,4 +59,5 @@ while true; do
             fi
         fi
     done
+    progress
 done
