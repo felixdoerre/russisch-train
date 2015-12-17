@@ -1,0 +1,64 @@
+Здравствуйте!;Guten Tag! (sie)
+Здравствуй!;Guten Tag! (du)
+Привет!;Hallo!
+Пока!;Tschüss!
+До свидания!;Auf Wiedersehn!
+Доброе утро!;Guten Morgen!
+Добрый день!;Guten Tag!
+Добрый вечер!;Guten Abend!
+Очень приятно!;Sehr angenehm!
+Добро пожаловать!;Herzlich willkommen!
+Извини, пожалуйста;Entschuldige bitte (mit Komma)
+Извините, пожалуйста;Entschuldigen Sie bitte (mit Komma)
+Скажи, пожалуйста;Sag, bitte
+Скажите, пожалуйста;Sagen Sie, bitte
+Спасибо!;Danke!
+Пожалуйста!;Bitte!
+Как по-русски;Was ist auf Russisch …?
+Как по-немецки;Was ist auf Deutsch …?
+Откуда ты?;Woher kommst du?
+Откуда вы?;Woher kommen Sie?
+Я из Москвы.;Ich bin aus Moskau.
+Я из Берлина.;Ich bin aus Berlin.
+Я живу Москве.;Ich wohne in Moskau.
+Я живу Берлине.;Ich wohne in Berlin.
+Где ты?;Wo bist du?
+Где вы?;Wo sind Sie?
+Я в университете.;Ich bin an der Universität.
+Вот это сюрприз!;Was für eine Überraschung!
+Интересно!;Interessant!
+Я понимаю.;Ich verstehe.
+Я не понимаю.;Ich verstehe nicht.
+Мне понятно.;Ich verstehe (das ist mir verständlich).
+Мне не понятно.;Ich verstehe nicht (das ist mir nicht verständlich).
+страна;Land
+национальность;Nationalität
+профессия;Beruf
+фамилия;Familienname
+имя;Vorname
+отчество;Vatersname
+ноль;null (mit o)
+нуль;null (mit u)
+раз;eins (bei Aufzählungen)
+один;eins (m)
+одна;eins (f)
+одно;eins (n)
+два;zwei (m/n)
+две;zwei (f)
+три;drei
+четыре;vier
+пять;fünf
+шесть;sechs
+семь;sieben
+восемь;acht
+девять;neun
+десять;zehn
+одиннадцать;elf
+двенадцать;zwölf
+тринадцать;dreizehn
+четырнадцать;vierzehn
+пятнадцать;fünfzehn
+шестнадцать;sechzehn
+семнадцать;siebzehn
+восемнадцать;achtzehn
+девятнадцать;neunzehn
