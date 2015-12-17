@@ -1,5 +1,14 @@
 #!/bin/bash
 
+if (($# != 1)) || ! [[ -d "$1" ]]; then
+    cat << EOF
+Usage: $0 DICTIONARY
+DICTIONARY is a directory containing a words.txt file
+and optionally other files tracking training progress.
+EOF
+    exit 1
+fi
+
 cd "$1"
 
 touch success
