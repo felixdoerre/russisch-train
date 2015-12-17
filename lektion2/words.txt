@@ -19,7 +19,7 @@
 мы живём;wir leben
 вы живёте;ihr lebt
 они живут;sie leben
-Я живу в Шлезвиге;Ich wohne in Schleswig.
+Я живу в Шлезвиге.;Ich wohne in Schleswig.
 кафе;Café
 правильно;richtig
 неправильно;falsch
