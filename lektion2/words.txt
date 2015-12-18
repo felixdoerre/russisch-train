@@ -13,7 +13,7 @@
 по;nach
 национальность;Nationalität
 жить;leben
-я живу;ich leben
+я живу;ich lebe
 ты живёшь;du lebst
 он живёт;er lebt
 мы живём;wir leben
