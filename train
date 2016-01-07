@@ -20,8 +20,10 @@ fi
 
 cd "$1"
 
-touch success
-touch fail
+touch success fail history
+
+HISTFILE=history
+history -r
 
 red="$(tput setaf 1)"
 green="$(tput setaf 2)"
@@ -44,7 +46,9 @@ while true; do
 
     failed="NO"
     while true; do
-        read -r -p "$de: " entry || { echo; exit; }
+        read -r -e -p "$de: " entry || { echo; exit; }
+        history -s "$entry"
+        history -w
         if [[ "$ru" == "$entry" ]]; then
             echo "${green}Success${reset}"
             if [[ $failed == "NO" ]]; then
