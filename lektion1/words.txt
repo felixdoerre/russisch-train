@@ -85,10 +85,10 @@
 Добро пожаловать!;Herzlich willkommen!
 Он тоже живёт в Москве.;Er wohnt auch in Moskau.
 откуда;woher
-понимаю;ich vestehe
+понимаю;ich verstehe
 он;er
 тоже;auch
-интересно;interssant
+интересно;interessant
 например;zum Beispiel
 она;sie (3.Ps sgl)
 оно;es
