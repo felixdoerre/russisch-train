@@ -1,0 +1,73 @@
+Как ваши дела?;Wie geht es Ihnen?
+Всё в порядке.;Alles in Ordnung.
+порядок;Ordnung
+ваши;eure/Ihre
+дела;Dinge/Angelegenheiten
+хорошо;gut
+нормально;normal
+Как дела?;Wie geht es?
+у;bei
+у меня;bei mir
+у тебя;bei dir
+ничего;ganz gut
+ну;na
+Как ты?;Wie (geht es) dir?
+не очень;nicht gut
+плохо;schlecht
+отлично;ausgezeichnet
+кого;wen/wem (Akkusativ)
+его;ihm
+её;ihr
+нас;uns
+их;ihnen
+Это моя семья.;Das ist meine Familie.
+мой, моя, моё;mein, meine, mein
+семья;Familie
+журналист;Journalist/in
+жена;Ehefrau
+доцент;Dozent/in
+мать;Mutter
+отец;Vater
+но;aber
+уже;schon
+давно;lange, seit langem
+инженер;Ingenieur/in
+хирург;Chirurg/in
+наш, наша, наше;unser, unsere, unser
+сын;Sohn
+дочь;Tochter
+студент;Student
+студентка;Studentin
+теперь;jetzt
+твой, твоя, твоё;dein, deine, dein
+ваш, ваша, ваше;euer, eure, euer/Ihr, Ihre, Ihr
+муж;Ehemann
+брат;Bruder
+сестра;Schwester
+мама;Mama
+папа;Papa
+бабушка;Großmutter/Oma
+дедушка;Großvater/Opa
+дочка;(kleine) Tochter
+сынок;(kleiner) Sohn
+внучка;Enkelin
+внук;Enkel
+У вас есть дети?;Haben Sie Kinder?
+у вас;bei euch
+есть;etwas/jemand existiert/ist vorhanden
+дети;Kinder
+там;dort
+фотография;Fotografie
+Ой!;Oh!
+программист;Programmierer/in
+без;ohne
+дома;zu Hause
+ещё;noch
+нет;nicht
+называйте меня;nennen Sie mich
+подруга;Freundin
+друг;Freund
+девушка;Freundin/Mädchen
+парень;Freund/Junge
+мужчина;Mann
+женщина;Frau
