@@ -20,8 +20,8 @@
 Откуда вы?;Woher kommen Sie?
 Я из Москвы.;Ich bin aus Moskau.
 Я из Берлина.;Ich bin aus Berlin.
-Я живу Москве.;Ich wohne in Moskau.
-Я живу Берлине.;Ich wohne in Berlin.
+Я живу в Москве.;Ich wohne in Moskau.
+Я живу в Берлине.;Ich wohne in Berlin.
 Где ты?;Wo bist du?
 Где вы?;Wo sind Sie?
 Я в университете.;Ich bin an der Universität.
